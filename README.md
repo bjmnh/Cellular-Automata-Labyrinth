@@ -1,6 +1,7 @@
 # 🌟 Cellular Automata Labyrinth 🌟
 
-![Labyrinth Banner](https://github.com/bjmnh/CellularAutomataLabyrinth/assets/88810487/95805a42-846a-4d5d-b612-aeeecaafd26c)
+![image](https://github.com/bjmnh/Cellular-Automata-Labyrinth/assets/88810487/147685a4-4280-4f71-9c4b-9a44b3aba4d5)
+
 <!-- Replace with a banner image of your project -->
 
 Welcome to the **Cellular Automata Labyrinth**, where the classic tale of the Minotaur meets computation! 🐂💻✨
