@@ -24,4 +24,3 @@ python main.py
 ![image](https://github.com/bjmnh/CellularAutomataLabyrinth/assets/88810487/f7a92d82-8629-4a65-9511-797b6c8aedf8)
 
 
-Brought to you by [bjmnh](https://github.com/bjmnh)!
